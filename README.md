@@ -21,3 +21,5 @@ For patch submission instructions, see:
 xorg macros:
 
 https://gitlab.freedesktop.org/xorg/util/macros
+
+sudo apt-get install libxaw7-dev libxkbfile-dev
