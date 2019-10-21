@@ -16,4 +16,8 @@ Please submit bug reports and requests to merge patches there.
 For patch submission instructions, see:
 
   https://www.x.org/wiki/Development/Documentation/SubmittingPatches
+  
 
+xorg macros:
+
+https://gitlab.freedesktop.org/xorg/util/macros
